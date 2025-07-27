@@ -20,7 +20,6 @@ El objetivo de este reto es construir un componente de tarjeta que muestre un c�
 ## 🚀 Enlace al proyecto
 
 - [Ver sitio en vivo](https://qr-code-solution-fm.netlify.app/)  
-  > Reemplazá con tu URL del deploy (puede ser GitHub Pages, Netlify, Vercel, etc.)
 
 ## 📚 Qué aprendí
 
