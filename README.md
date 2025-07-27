@@ -14,7 +14,7 @@ El objetivo de este reto es construir un componente de tarjeta que muestre un c�
 
 ## 📸 Captura del resultado
 
-![Captura de pantalla del proyecto](images/screenshot/qr-code-screenshot.png)
+![Captura de pantalla del proyecto](./assets/images/screenshot/qr-solution.png)
 
 
 ## 🚀 Enlace al proyecto
