@@ -33,11 +33,3 @@ Durante este reto reforcé mis conocimientos en:
 
 No requiere instalación. Solo abrí el archivo `index.html` en tu navegador.
 
-## 📂 Estructura de carpetas
-
-```bash
-qr-code-component/
-├── index.html
-├── style.css
-└── images/
-    └── image-qr-code.png
