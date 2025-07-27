@@ -16,11 +16,10 @@ El objetivo de este reto es construir un componente de tarjeta que muestre un c�
 
 ![Captura de pantalla del proyecto](./images/screenshot/qr-code-screenshot.png)
 
-> 📌 *Podés agregar una imagen si tomaste una captura del proyecto una vez terminado.*
 
 ## 🚀 Enlace al proyecto
 
-- [Ver sitio en vivo](https://tusitio.vercel.app)  
+- [Ver sitio en vivo](https://qr-code-solution-fm.netlify.app/)  
   > Reemplazá con tu URL del deploy (puede ser GitHub Pages, Netlify, Vercel, etc.)
 
 ## 📚 Qué aprendí
